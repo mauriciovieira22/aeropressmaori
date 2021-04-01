@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Mauricio Vieira
+- ⚠️ I have not experience 
 - 👀 I’m interested in AI, Machine Learning, Developer
 - 🌱 I’m currently learning Electrical Engineering
 - 💞️ I’m looking to collaborate on Python
